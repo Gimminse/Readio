@@ -2,7 +2,7 @@
 
 ## Project Description
 Create a youtube summarizer that records and summarizes Youtube live streamed video
-Keyword: real-time audio processing, natural language processing, 
+Keyword: real-time audio processing, natural language processing, frontend, backend
 
 ### Target User
 Investors/buyers who need to be up-to-date on any issue but missed some due to personal reason
